@@ -17,6 +17,22 @@
   background-image: url(../img/pirate-ship.jpg);
   background-position: center;
   background-size: cover;
+  padding-bottom: 150px;
+  padding-top: 150px;
+}
+
+.jumbotron h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.col-sm-8 h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.footer {
+  background-color: rgb(156, 156, 156);
+  color: black;
+  text-align: center;
 }
 
 // Import partials here
